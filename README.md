@@ -68,19 +68,25 @@ Scroll all the way down and click on _Open advanced settings_:
 In order to set up our workaround to the keyboard shortcut limitations in Windower v4, navigate to the Editing tab and click on Advanced next to the Key template dropdown.
 The table shows the current key assignments. Yes, it looks confusing.
 ![Step 4](https://raw.githubusercontent.com/Elvaron/fwime/master/screen4.png)
-For Windows 10, it's under the General tab. Click on _Advanced_ next under the group _Editing operation and behavior_:
+For Windows 10, it's under the General tab. Click on _Advanced_ under the group _Editing operation and behavior_:
+
 ![Step 7 Win 10](https://raw.githubusercontent.com/Elvaron/fwime/master/7.png)
 
 It also doesn't work like you'd expect.
 Instead of double-clicking on a keyboard combination you want to set, and then assigning a function to it, you look for the function you want to assign, double click it's entry in the table - whatever it's current keyboard shortcut may be - and assign a new keyboard shortcut from a dropdown.
 
 The function we're looking for, IME ON/OFF, is most likely assigned to a key that only physically exists on japanese keyboards:
+
 ![Step 8 Win 10](https://raw.githubusercontent.com/Elvaron/fwime/master/8.png)
 
 Let's assign it to something more useful, like Ctrl+F2:
+
 ![Step 9 Win 10](https://raw.githubusercontent.com/Elvaron/fwime/master/9.png)
 Once this assignment is in place, you can confirm the screen:
+
 ![Step 5](https://raw.githubusercontent.com/Elvaron/fwime/master/screen5.png)
+Or for Windows 10:
+
 ![Step 10 Win 10](https://raw.githubusercontent.com/Elvaron/fwime/master/10.png)
 
 Now close all these open windows by clicking OK.
