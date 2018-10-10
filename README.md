@@ -82,9 +82,11 @@ The function we're looking for, IME ON/OFF, is most likely assigned to a key tha
 Let's assign it to something more useful, like Ctrl+F2:
 
 ![Step 9 Win 10](https://raw.githubusercontent.com/Elvaron/fwime/master/9.png)
+
 Once this assignment is in place, you can confirm the screen:
 
 ![Step 5](https://raw.githubusercontent.com/Elvaron/fwime/master/screen5.png)
+
 Or for Windows 10:
 
 ![Step 10 Win 10](https://raw.githubusercontent.com/Elvaron/fwime/master/10.png)
