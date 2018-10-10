@@ -19,7 +19,7 @@ I set my language for non-Unicode programs to Japanese, but as the guide says, u
 The basic requirements are therefore:
 
 * Install the Japanese IME Keyboard. This is different for each operating system. In Windows 7 the steps were as shown here:
-(https://www.dropbox.com/s/cc8qs4n27qixyb4/screen1.png)
+![Step 1](https://raw.githubusercontent.com/Elvaron/fwime/master/screen1.png)
 * Either set your input language for non-unicode programs to Japanese, or experiment with an AppLocale tool.
 * Have the current IME plugin.
 
@@ -28,7 +28,7 @@ The basic requirements are therefore:
 To address the issue of not being able to switch input modes, we navigate to the keyboard options.
 Once again, the screenshots show Windows 7, but it should be similar for newer operating systems, just hidden behind fancier UIs.
 Opening the properties of the Japanese IME Keyboard, you'll likely be presented with the following screen:
-https://www.dropbox.com/s/9c49vb8aeyb9wbr/screen2.png
+![Step 2](https://raw.githubusercontent.com/Elvaron/fwime/master/screen2.png)
 
 If you're like me, this view is a bit intimidating.
 Let's change it to English, shall we? In order to do so, open the dropdown menu highlighted in the above screenshot.
@@ -38,18 +38,18 @@ You'll get the following options:
 * 英語 (eigo) - English
 
 Select the third option, hit okay, then re-open the Properties window to get the following view:
-https://www.dropbox.com/s/zbgcan61rl56pvt/screen3.png
+![Step 3](https://raw.githubusercontent.com/Elvaron/fwime/master/screen3.png)
 
 Now that we know what we're dealing with, you can make changes to all these properties as you see fit. Feel free to experiment.
 You can reset your changes on the tab General if you make things worse.
 In order to set up our workaround to the keyboard shortcut limitations in Windower v4, navigate to the Editing tab and click on Advanced next to the Key template dropdown.
 The table shows the current key assignments. Yes, it looks confusing.
-https://www.dropbox.com/s/mdlekg8u6zrvj13/screen4.png
+![Step 4](https://raw.githubusercontent.com/Elvaron/fwime/master/screen4.png)
 
 It also doesn't work like you'd expect.
 Instead of double-clicking on a keyboard combination you want to set, and then assigning a function to it, you look for the function you want to assign, double click it's entry in the table - whatever it's current keyboard shortcut may be - and assign a new keyboard shortcut from a dropdown.
 The function we're looking for, IME ON/OFF, is most likely assigned to a key that only physically exists on japanese keyboards. Let's assign it to something more useful, like Ctrl+F2:
-https://www.dropbox.com/s/okancgeu8sgg1dn/screen5.png
+![Step 5](https://raw.githubusercontent.com/Elvaron/fwime/master/screen5.png)
 
 Now close all these open windows by clicking OK.
 Start windower-enabled FFXI, log into your character.
