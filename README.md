@@ -60,7 +60,9 @@ To get to the same screen in Windows 10, select the Japanese keyboard and click 
 Then for the actual Microsoft IME click again on options:
 
 ![Step 5 Win 10](https://raw.githubusercontent.com/Elvaron/fwime/master/5.png)
+
 Scroll all the way down and click on _Open advanced settings_:
+
 ![Step 6 Win 10](https://raw.githubusercontent.com/Elvaron/fwime/master/6.png)
 
 In order to set up our workaround to the keyboard shortcut limitations in Windower v4, navigate to the Editing tab and click on Advanced next to the Key template dropdown.
