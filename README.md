@@ -28,6 +28,7 @@ In Windows 10 you'll want to find your Region & language options:
 Click on _Add a language_ and search for Japanese
 ![Step 2 Win 10](https://raw.githubusercontent.com/Elvaron/fwime/master/2.png)
 Confirm the installation
+
 ![Step 3 Win 10](https://raw.githubusercontent.com/Elvaron/fwime/master/3.png)
 * Either set your input language for non-unicode programs to Japanese, or experiment with an AppLocale tool.
 * Have the current IME plugin.
@@ -57,6 +58,7 @@ You can reset your changes on the tab General if you make things worse.
 To get to the same screen in Windows 10, select the Japanese keyboard and click on options:
 ![Step 4 Win 10](https://raw.githubusercontent.com/Elvaron/fwime/master/4.png)
 Then for the actual Microsoft IME click again on options:
+
 ![Step 5 Win 10](https://raw.githubusercontent.com/Elvaron/fwime/master/5.png)
 Scroll all the way down and click on _Open advanced settings_:
 ![Step 6 Win 10](https://raw.githubusercontent.com/Elvaron/fwime/master/6.png)
