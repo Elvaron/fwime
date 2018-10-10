@@ -19,7 +19,7 @@ I set my language for non-Unicode programs to Japanese, but as the guide says, u
 The basic requirements are therefore:
 
 * Install the Japanese IME Keyboard. This is different for each operating system. In Windows 7 the steps were as shown here:
-https://www.dropbox.com/s/cc8qs4n27qixyb4/screen1.png
+(https://www.dropbox.com/s/cc8qs4n27qixyb4/screen1.png)
 * Either set your input language for non-unicode programs to Japanese, or experiment with an AppLocale tool.
 * Have the current IME plugin.
 
