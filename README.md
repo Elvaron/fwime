@@ -57,6 +57,7 @@ You can reset your changes on the tab General if you make things worse.
 
 To get to the same screen in Windows 10, select the Japanese keyboard and click on options:
 ![Step 4 Win 10](https://raw.githubusercontent.com/Elvaron/fwime/master/4.png)
+
 Then for the actual Microsoft IME click again on options:
 
 ![Step 5 Win 10](https://raw.githubusercontent.com/Elvaron/fwime/master/5.png)
