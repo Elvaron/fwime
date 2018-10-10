@@ -54,6 +54,7 @@ It also doesn't work like you'd expect.
 Instead of double-clicking on a keyboard combination you want to set, and then assigning a function to it, you look for the function you want to assign, double click it's entry in the table - whatever it's current keyboard shortcut may be - and assign a new keyboard shortcut from a dropdown.
 
 The function we're looking for, IME ON/OFF, is most likely assigned to a key that only physically exists on japanese keyboards. Let's assign it to something more useful, like Ctrl+F2:
+
 ![Step 5](https://raw.githubusercontent.com/Elvaron/fwime/master/screen5.png)
 
 Now close all these open windows by clicking OK.
